@@ -12,7 +12,9 @@ replace the last letter of the parolj with a *, print
 ```
 , reverse it
 ```
-
+```
+the user has provided the string correctly. Lets continue. 
+```
 
 guessing strats
 ```
