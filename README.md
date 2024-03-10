@@ -226,7 +226,8 @@ artisanlibartisanlibartisanlibartisanlibartisanlibartisanlibartisanlibartisanlib
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/9be8b9b0-5705-4788-bb63-2725d3a85d30" />
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/40c22b80-f85a-4ac4-a63f-e08b07597409" />
 <image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/4703b620-c600-4bdc-94fa-6fbf20052889" />
-<image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/bd3dd48b-6fef-4083-ac84-ff13e8e49e00" />
+<image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/51777c60-d0fd-44df-b633-3413d1f9e660" />
+
 
 Check out more of what I do on my [website](https://xladn0.rf.gd/).
 
