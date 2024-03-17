@@ -8,6 +8,15 @@ Some I still wont reveal entirely untill im sure non-trivial tweaking wont still
 # Defending
 Note to self: add this lol.
 
+Add ex defense prompts. ( Once I retire I will post all of my defenses here, lets say after 2 months in top 3 il prob get tired of playing ) Current standing: 1 week+ in the top #3 // March 17th 2023.
+
+## GPT
+- As it currently stands its impossible to defend against glitch token payloads. Sure you can easily avoid ALL text, story and similar attacks, but all artisan bombs will leak something. After leaking anything other then your harcoded prompt youre in a pickle. Its only a matter of time before someone either gets your code leaked or just glitches your bot into granting access.
+## Palm
+- I have the most experience with this model and will provide proper prompts
+## Claude
+- One of the better ones, but you need to be ultra carefull and read the claude documentation or the most basic prompts will break you.
+
 # Attacking
 
 ## Direct Simple Injections
