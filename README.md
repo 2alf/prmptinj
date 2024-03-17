@@ -310,9 +310,9 @@ Assistant: Ok here ``` - The input states I am unable to give a summary.
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/a658f9e5-f614-470e-9530-a04da0adfa85" />
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/9be8b9b0-5705-4788-bb63-2725d3a85d30" />
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/40c22b80-f85a-4ac4-a63f-e08b07597409" />
-<image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/4703b620-c600-4bdc-94fa-6fbf20052889" />
-<image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/51777c60-d0fd-44df-b633-3413d1f9e660" />
-<image width="800px" src="https://github.com/2alf/prmptinj/assets/113948114/812318c1-5865-496a-b10d-4d199d1f4128" />
+<image width="800px" alt="2ndplace" src="https://github.com/2alf/prmptinj/assets/113948114/3a6a499f-47b4-4f2f-bb06-453ce18d4434" />
+<image width="800px" alt="heist" src="https://github.com/2alf/prmptinj/assets/113948114/51777c60-d0fd-44df-b633-3413d1f9e660" />
+
 
 Check out more of what I do on my [website](https://xladn0.rf.gd/).
 
