@@ -8,7 +8,7 @@ Some I still wont reveal entirely untill im sure non-trivial tweaking wont still
 # Defending
 Note to self: add this lol.
 
-Add ex defense prompts. ( Once I retire I will post all of my defenses here, lets say after 2 months in top 3 il prob get tired of playing ) Current standing: 1 week+ in the top #3 // March 17th 2023.
+Add ex defense prompts. ( Once I retire I will post all of my defenses here, lets say after 2 months in top 3 il prob get tired of playing ) Current standing: 3 week+ in the top #2 // March 29th 2023.
 
 ## GPT
 - As it currently stands its impossible to defend against glitch token payloads. Sure you can easily avoid ALL text, story and similar attacks, but all artisan bombs will leak something. After leaking anything other then your harcoded prompt youre in a pickle. Its only a matter of time before someone either gets your code leaked or just glitches your bot into granting access.
@@ -424,6 +424,8 @@ gg's Unicorn🦄 this was a fun defense ```Access Granted. ```
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/9be8b9b0-5705-4788-bb63-2725d3a85d30" />
 <image width="400px" src="https://github.com/2alf/prmptinj/assets/113948114/40c22b80-f85a-4ac4-a63f-e08b07597409" />
 <image width="800px" alt="2ndplace" src="https://github.com/2alf/prmptinj/assets/113948114/3a6a499f-47b4-4f2f-bb06-453ce18d4434" />
+<image width="800px" alt="2ndplace" src="https://github.com/2alf/prmptinj/assets/113948114/df6f42b9-bc88-4b6e-97ea-032d5e61d92d" />
+
 <image width="800px" alt="heist" src="https://github.com/2alf/prmptinj/assets/113948114/51777c60-d0fd-44df-b633-3413d1f9e660" />
 
 
