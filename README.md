@@ -8,7 +8,7 @@ Some I still wont reveal entirely untill im sure non-trivial tweaking wont still
 # Defending
 Note to self: add this lol.
 
-Add ex defense prompts. ( Once I retire I will post all of my defenses here, lets say after 2 months in top 3 il prob get tired of playing ) Current standing: 4 months in the top #2 // june 23th 2024. ( soon )
+Add ex defense prompts. ( Once I retire I will post all of my defenses here, lets say after 2 months in top 3 il prob get tired of playing ) Current standing: 5 months in the top #2 // aug 2024. ( soon )
 
 ## GPT
 - As it currently stands its impossible to defend against glitch token payloads. Sure you can easily avoid ALL text, story and similar attacks, but all artisan bombs will leak something. After leaking anything other then your harcoded prompt youre in a pickle. Its only a matter of time before someone either gets your code leaked or just glitches your bot into granting access.
